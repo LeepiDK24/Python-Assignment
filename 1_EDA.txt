@@ -1,0 +1,29 @@
+A. To analyze the distribution of customer ages and their relationship with product purchase (ProdTaken), create a histogram or density plot for age distribution and use side-by-side boxplots or violin plots to compare age distributions between customers who purchased a product and those who did not.
+
+B. To determine how the type of contact influences the likelihood of purchasing a travel product, use cross-tabulation or chi-square tests if the data is categorical. If the contact type is continuous, use grouped bar plots to compare the purchase rates across different contact types.
+
+C. To identify a correlation between the city tier (citytier) and monthly income (monthly income) of customers, use scatterplots or compute the Pearson correlation coefficient.
+
+D. To find the average duration of a pitch for customers who purchased a product versus those who did not, use independent samples t-test or calculate the mean durations with corresponding confidence intervals for both groups.
+
+E. To analyze the distribution of occupation types among customers and determine if there is an occupation type more likely to purchase a travel product, use bar plots and conduct chi-square tests.
+
+F. To determine if there are gender-based preferences for the type of product pitched (ProductPitched), use contingency tables and chi-square tests.
+
+G. To analyze the relationship between the number of trips taken by a customer and their likelihood to purchase a new travel product, use scatterplots and compute the correlation coefficient or perform logistic regression.
+
+H. To determine if having a passport correlates with a higher number of trips taken or a higher likelihood of purchasing a travel product, use correlation analysis and chi-square tests.
+
+I. To analyze customer satisfaction with the pitch and its influence on product purchase, use scatterplots, boxplots, or logistic regression.
+
+J. To analyze the impact of the number of children on travel product purchases among customers with children, use cross-tabulation or t-tests if the data allows.
+
+K. To determine gender preferences for product types, use contingency tables and chi-square tests.
+
+L. To analyze the impact of marital status on travel preferences and product purchases, use cross-tabulation or logistic regression.
+
+M. To examine the relationship between the number of children visiting and the likelihood of purchasing a travel product, use contingency tables and chi-square tests.
+
+N. To determine the influence of owning a car on travel decisions, use correlation analysis or t-tests to assess the relationship between owning a car (own car) and the number of trips taken (number of trips) or the type of travel product purchased.
+
+O. To analyze how monthly income influences customers' choice of travel products and identify any preferred income levels, use cross-tabulation or chi-square tests, and consider creating stacked bar plots to visualize the distribution of product choices across different income levels.
